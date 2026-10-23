@@ -1,0 +1,9 @@
+Test ID,Test,Expected Result,Result in Report,Retested By,Retest Date,Notes
+TC-01,Create four custom objects,Objects visible in Object Manager,Pass,,,
+TC-02,Create a Parcel record,Parcel ID auto-numbers as P-001,Pass,,,
+TC-03,Link Sender Receiver and Delivery,Lookups save and display,Pass,,,
+TC-04,Preview prompt with Laptop Parcel,Formatted parcel update returned,Pass,,,
+TC-05,Activate Flow,Flow shows Active,Pass,,,
+TC-06,Ask agent for parcel details,Agent asks for Parcel ID,Pass,,,
+TC-07,Provide P-001,Agent returns name ID status weight and date,Pass,,,
+TC-08,Assign permission set,Assignment listed on user,Pass,,,
